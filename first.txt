@@ -1,0 +1,3 @@
+This is our first sample text file 
+we want to made changes
+we added new features

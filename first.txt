@@ -1,3 +1,4 @@
 This is our first sample text file 
 we want to made changes
-this is another feature
+we made some changes in the developer branch
+

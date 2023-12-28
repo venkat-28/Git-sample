@@ -1,2 +1,2 @@
 we want to check does it show any error in the tracking area
-here we made the changes
+I want to explore the merge conflicts concept
